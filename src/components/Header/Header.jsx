@@ -8,7 +8,7 @@ function Header() {
             <a href='/' className='logo'> {headerUtils.logo} </a>
 
             {headerUtils.links.map(l => 
-                <a href={l.link} className='button header-home-btn'> {l.name} </a>
+                <a key={l.name} href={l.link} className='button header-home-btn'> {l.name} </a>
             )}
         </header>
     );
