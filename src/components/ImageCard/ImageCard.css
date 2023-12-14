@@ -1,0 +1,53 @@
+.image-card-container{
+   width: 100%;
+   max-width: 600px !important;
+   height: 600px;
+   padding: 10px;
+   display: flex;
+   margin: auto !important;
+}
+
+.topic-image{
+    width: 600px;
+    height: 400px;
+    border: black solid 1px;
+    margin: auto;
+}
+.reject-btn{
+    width: 60%;
+}
+.accept-btn{
+    width: 60%;
+}
+.row{
+    width: 100% !important;
+}
+.image-card{
+    width: 900px !important;
+    max-width: 900px !important;
+    margin: auto !important;
+}
+.image-navigation-btns{
+    border-radius: 50px;
+    block-size: auto;
+    width: auto;
+    font-size: 100px;
+    background: none;
+    color: white;
+    vertical-align: middle;
+}
+.image-navigation-btns:hover{
+    background: none;
+}
+.image-block{
+    height: 580px !important;
+}
+.previous-btn-col{
+    display: flex;
+    align-items: center;
+}
+.next-btn-col{
+    display: block;
+    align-items: center;
+    margin: auto -40px;
+}

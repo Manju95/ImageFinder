@@ -1,0 +1,42 @@
+.username{
+    letter-spacing: 1px;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #acb0ad;
+    font-family: cursive;
+    font-weight: 600;
+}
+
+.thumbnail-image{
+    border: 1px solid lightslategrey;
+    border-radius: 4px;
+    padding: 5px;
+    width: 230px;
+    margin: auto;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.profile-card{
+    max-width: 250px;
+    display: flex;
+    margin: auto !important;
+    padding: 20px;
+    background-color: black !important;
+}
+.profile-container{
+    display: block;
+    justify-content: center;
+}
+.thumbnail-image-link{
+    margin: auto;
+}
+.profile-header{
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: #acb0ad;
+    margin: auto;
+    padding: 20px;
+}

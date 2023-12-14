@@ -1,0 +1,24 @@
+.error-code{
+    font-size: 100px;
+    color: darkgray;
+    margin: auto;
+}
+.oops-msg{
+    font-size: 250px;
+    color: darkgray;
+    margin: auto;
+}
+.error-msg{
+    color: darkgray;
+    margin: auto;
+}
+.error-page-container{
+    display: flex;
+    text-align: center;
+}
+.go-home-btn{
+    justify-content: center;
+}
+.error-back-btn{
+    background-color: #b17b02 !important;
+}

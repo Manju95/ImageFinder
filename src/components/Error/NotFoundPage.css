@@ -1,0 +1,27 @@
+.notfound{
+    font-size: 250px;
+    color: darkgray;
+    margin: auto;
+    margin-top: -70px;
+    margin-bottom: -35px;
+}
+.oops-msg{
+    font-size: 100px;
+    color: darkgray;
+    margin: auto;
+    margin-top: -80px !important;
+}
+.notfound-msg{
+    color: darkgray;
+    margin: auto;
+}
+.notfound-container{
+    display: flex;
+    text-align: center;
+}
+.back-home-btn{
+    margin: auto !important;
+    background-color: #b17b02 !important;
+    border-radius: 5px;
+    color: white !important;
+}

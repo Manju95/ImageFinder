@@ -1,0 +1,32 @@
+.app-heading{
+    text-align: center;
+    letter-spacing: 2px;
+    color: #acb0ad;
+    font-size: 20px;
+    float: left;
+    padding: 10px;
+}
+
+.form-container{
+    display: table;
+    width: 100%;
+    align-content: center;
+}
+
+.hooray-text{
+    color: #acb0ad;
+    font-size: 80px;
+}
+
+.welcome-text{
+    color: #acb0ad;
+    display: block;
+    font-size: 25px;
+}
+
+.additional-text{
+    color: #acb0ad;
+    font-size: 20px;
+    font-style: italic;
+    vertical-align: bottom;
+}

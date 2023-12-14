@@ -1,0 +1,36 @@
+.user-form-card{
+    max-width: 600px;
+    padding: 10px;
+    text-align: left;
+    background: rgba(0,0,0,0.5) !important;
+}
+
+.search-btn{
+    width: 100%;
+    background-color: #b17b02 !important;
+    color: white !important;
+    border-radius: 40px;
+}
+
+input[type='text']{
+    width: 100%;
+    border-radius: 10px;
+}
+
+select{
+    width: 100%;
+    border-radius: 10px !important;
+}
+
+textarea{
+    width: 100%;
+    border-radius: 10px !important;
+}
+
+.user-form{
+    background: rgba(0,0,0,0.5) !important;
+    color: #acb0ad;
+    max-width: 400px;
+    padding: 10px;
+    text-align: left;
+}
